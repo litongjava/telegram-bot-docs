@@ -3,7 +3,7 @@
 使用 Java 和 tio-boot 开发 Telegram 机器人的文档。
 
 - 文档站：https://telegram-bot.io.nexus/
-- 相关项目：[telegram-bot-base](https://github.com/litongjava/telegram-bot-base)、[telegram-bot-utils](https://github.com/litongjava/telegram-bot-utils)
+- 相关项目：[telegram-bot-plus](https://github.com/litongjava/telegram-bot-plus)、[max-translator-bot](https://github.com/litongjava/max-translator-bot)
 - 拆分自 [tio-boot-docs](https://github.com/litongjava/tio-boot-docs)
 
 ## 本地开发

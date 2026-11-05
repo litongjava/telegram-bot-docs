@@ -1,9 +1,9 @@
-/telegram-bots/02 /telegram-bot-base/01 301
-/telegram-bots/02.html /telegram-bot-base/01 301
-/telegram4j/19 /telegram-bot-base/02 301
-/telegram4j/19.html /telegram-bot-base/02 301
-/telegram4j/20 /telegram-bot-base/03 301
-/telegram4j/20.html /telegram-bot-base/03 301
+/telegram-bots/02 /telegram-bot-plus/02 301
+/telegram-bots/02.html /telegram-bot-plus/02 301
+/telegram4j/19 /telegram-bot-plus/01 301
+/telegram4j/19.html /telegram-bot-plus/01 301
+/telegram4j/20 /telegram-bot-plus/05 301
+/telegram4j/20.html /telegram-bot-plus/05 301
 /telegram4j/18 /telegram-bots/03 301
 /telegram4j/18.html /telegram-bots/03 301
 /telegram4j/02 /telegram-bots/04 301
@@ -12,3 +12,11 @@
 /telegram4j/17.html /tdlight/ 301
 /telegram4j/13 /telegram4j/ 301
 /telegram4j/13.html /telegram4j/ 301
+/telegram-bot-base/01 /telegram-bot-plus/02 301
+/telegram-bot-base/01.html /telegram-bot-plus/02 301
+/telegram-bot-base/02 /telegram-bot-plus/01 301
+/telegram-bot-base/02.html /telegram-bot-plus/01 301
+/telegram-bot-base/03 /telegram-bot-plus/05 301
+/telegram-bot-base/03.html /telegram-bot-plus/05 301
+/telegram-bot-base /telegram-bot-plus/ 301
+/telegram-bot-base/ /telegram-bot-plus/ 301

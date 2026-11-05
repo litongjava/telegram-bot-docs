@@ -1,22 +1,30 @@
 [
   {
-    "text": "第 1 章 telegram-bot-base（推荐）",
+    "text": "第 1 章 telegram-bot-plus（推荐）",
     "items": [
       {
         "text": "概览与安装",
-        "link": "/telegram-bot-base/"
+        "link": "/telegram-bot-plus/"
       },
       {
-        "text": "使用工具库 telegram-bot-base 开发翻译机器人",
-        "link": "/telegram-bot-base/01"
+        "text": "快速开始",
+        "link": "/telegram-bot-plus/01"
       },
       {
-        "text": "tio-boot 整合 Telegram-Bot-Utils",
-        "link": "/telegram-bot-base/02"
+        "text": "开发翻译机器人",
+        "link": "/telegram-bot-plus/02"
+      },
+      {
+        "text": "并发、限流与退出",
+        "link": "/telegram-bot-plus/03"
+      },
+      {
+        "text": "WebHook 模式",
+        "link": "/telegram-bot-plus/04"
       },
       {
         "text": "工具类参考",
-        "link": "/telegram-bot-base/03"
+        "link": "/telegram-bot-plus/05"
       }
     ]
   },

@@ -27,7 +27,7 @@ export default defineConfig({
   lastUpdated: true,
   head: [
     ["link", { rel: "icon", href: "/logo.png" }],
-    ["meta", { name: "keywords", content: "Telegram 机器人,Telegram Bot,Telegram4J,TelegramBots,tdlight,Java,tio-boot" }],
+    ["meta", { name: "keywords", content: "Telegram 机器人,Telegram Bot,telegram-bot-plus,max-translator-bot,Telegram4J,TelegramBots,tdlight,Java,tio-boot" }],
     ["meta", { name: "robots", content: "index,follow,max-image-preview:large,max-snippet:-1" }],
     ["meta", { property: "og:site_name", content: siteName }],
     ["meta", { name: "twitter:card", content: "summary" }],
@@ -75,7 +75,8 @@ export default defineConfig({
   themeConfig: {
     logo: "/logo.png",
     nav: [
-      { text: "telegram-bot-base", link: "https://github.com/litongjava/telegram-bot-base" },
+      { text: "telegram-bot-plus", link: "https://github.com/litongjava/telegram-bot-plus" },
+      { text: "翻译机器人", link: "https://github.com/litongjava/max-translator-bot" },
       { text: "全部项目", link: "https://io.nexus/projects" },
       { text: "Tio Boot", link: "https://tio-boot.com/" },
     ],
