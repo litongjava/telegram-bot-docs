@@ -1,0 +1,104 @@
+[
+  {
+    "text": "Telegram4J 与综合实践",
+    "items": [
+      {
+        "text": "概览",
+        "link": "/telegram4j/"
+      },
+      {
+        "text": "数据库设计",
+        "link": "/telegram4j/01"
+      },
+      {
+        "text": "基于 HTTP 协议开发 Telegram 翻译机器人",
+        "link": "/telegram4j/02"
+      },
+      {
+        "text": "基于 MTProto 协议开发 Telegram 翻译机器人",
+        "link": "/telegram4j/03"
+      },
+      {
+        "text": "过滤旧消息",
+        "link": "/telegram4j/04"
+      },
+      {
+        "text": "保存机器人消息",
+        "link": "/telegram4j/05"
+      },
+      {
+        "text": "定时推送",
+        "link": "/telegram4j/06"
+      },
+      {
+        "text": "增加命令菜单",
+        "link": "/telegram4j/07"
+      },
+      {
+        "text": "使用 telegram-Client",
+        "link": "/telegram4j/08"
+      },
+      {
+        "text": "使用自定义 StoreLayout",
+        "link": "/telegram4j/09"
+      },
+      {
+        "text": "延迟测试",
+        "link": "/telegram4j/10"
+      },
+      {
+        "text": "Reactor 错误处理",
+        "link": "/telegram4j/11"
+      },
+      {
+        "text": "Telegram4J 常见错误处理指南",
+        "link": "/telegram4j/12"
+      },
+      {
+        "text": "处理回调查询",
+        "link": "/telegram4j/13"
+      },
+      {
+        "text": "Reactor",
+        "link": "/telegram4j/14"
+      },
+      {
+        "text": "文档翻译",
+        "link": "/telegram4j/16"
+      },
+      {
+        "text": "使用 Tio-Boot 整合 tdlight",
+        "link": "/telegram4j/17"
+      },
+      {
+        "text": "tio-boot 整合 TelegramBots",
+        "link": "/telegram4j/18"
+      },
+      {
+        "text": "tio-boot 整合 Telegram-Bot-Utils",
+        "link": "/telegram4j/19"
+      },
+      {
+        "text": "Telegram-Bot-Utils 使用指南",
+        "link": "/telegram4j/20"
+      }
+    ]
+  },
+  {
+    "text": "TelegramBots",
+    "items": [
+      {
+        "text": "概览",
+        "link": "/telegram-bots/"
+      },
+      {
+        "text": "TelegramBots 入门指南",
+        "link": "/telegram-bots/01"
+      },
+      {
+        "text": "使用工具库 telegram-bot-base 开发翻译机器人",
+        "link": "/telegram-bots/02"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "telegram-bot-docs",
+  "version": "1.0.0",
+  "description": "使用 Java 和 tio-boot 开发 Telegram 机器人的文档",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@10.34.9",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
