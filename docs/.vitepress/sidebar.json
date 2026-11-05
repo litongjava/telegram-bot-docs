@@ -1,6 +1,60 @@
 [
   {
-    "text": "Telegram4J 与综合实践",
+    "text": "第 1 章 telegram-bot-base（推荐）",
+    "items": [
+      {
+        "text": "概览与安装",
+        "link": "/telegram-bot-base/"
+      },
+      {
+        "text": "使用工具库 telegram-bot-base 开发翻译机器人",
+        "link": "/telegram-bot-base/01"
+      },
+      {
+        "text": "tio-boot 整合 Telegram-Bot-Utils",
+        "link": "/telegram-bot-base/02"
+      },
+      {
+        "text": "工具类参考",
+        "link": "/telegram-bot-base/03"
+      }
+    ]
+  },
+  {
+    "text": "第 2 章 TelegramBots",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "概览",
+        "link": "/telegram-bots/"
+      },
+      {
+        "text": "TelegramBots 入门指南",
+        "link": "/telegram-bots/01"
+      },
+      {
+        "text": "tio-boot 整合 TelegramBots",
+        "link": "/telegram-bots/03"
+      },
+      {
+        "text": "基于 HTTP 协议开发 Telegram 翻译机器人",
+        "link": "/telegram-bots/04"
+      }
+    ]
+  },
+  {
+    "text": "第 3 章 tdlight",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "使用 Tio-Boot 整合 tdlight",
+        "link": "/tdlight/"
+      }
+    ]
+  },
+  {
+    "text": "第 4 章 Telegram4J（不推荐）",
+    "collapsed": true,
     "items": [
       {
         "text": "概览",
@@ -9,10 +63,6 @@
       {
         "text": "数据库设计",
         "link": "/telegram4j/01"
-      },
-      {
-        "text": "基于 HTTP 协议开发 Telegram 翻译机器人",
-        "link": "/telegram4j/02"
       },
       {
         "text": "基于 MTProto 协议开发 Telegram 翻译机器人",
@@ -55,49 +105,12 @@
         "link": "/telegram4j/12"
       },
       {
-        "text": "处理回调查询",
-        "link": "/telegram4j/13"
-      },
-      {
         "text": "Reactor",
         "link": "/telegram4j/14"
       },
       {
         "text": "文档翻译",
         "link": "/telegram4j/16"
-      },
-      {
-        "text": "使用 Tio-Boot 整合 tdlight",
-        "link": "/telegram4j/17"
-      },
-      {
-        "text": "tio-boot 整合 TelegramBots",
-        "link": "/telegram4j/18"
-      },
-      {
-        "text": "tio-boot 整合 Telegram-Bot-Utils",
-        "link": "/telegram4j/19"
-      },
-      {
-        "text": "Telegram-Bot-Utils 使用指南",
-        "link": "/telegram4j/20"
-      }
-    ]
-  },
-  {
-    "text": "TelegramBots",
-    "items": [
-      {
-        "text": "概览",
-        "link": "/telegram-bots/"
-      },
-      {
-        "text": "TelegramBots 入门指南",
-        "link": "/telegram-bots/01"
-      },
-      {
-        "text": "使用工具库 telegram-bot-base 开发翻译机器人",
-        "link": "/telegram-bots/02"
       }
     ]
   }

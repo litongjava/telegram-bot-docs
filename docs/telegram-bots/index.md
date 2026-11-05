@@ -1,9 +1,7 @@
 # TelegramBots
 
+[TelegramBots](https://github.com/rubenlagus/TelegramBots) 是 telegram-bot-base 的底层库。需要直接使用官方封装，或想了解底层调用时阅读本章；开发新机器人建议先看 [telegram-bot-base](../telegram-bot-base/)。
 
-## 文件清单
-
-- [01.md](<./01.md>): 文档《TelegramBots 入门指南》。
-- [02.md](<./02.md>): 文档《使用工具库 telegram-bot-base 开发翻译机器人》。
-- [image-1.png](<./assets/image-1.png>): 图片资源，用于本目录文档配图或界面示意。
-- [image.png](<./assets/image.png>): 图片资源，用于本目录文档配图或界面示意。
+- [TelegramBots 入门指南](./01.md)
+- [tio-boot 整合 TelegramBots](./03.md)
+- [基于 HTTP 协议开发 Telegram 翻译机器人](./04.md)：不使用框架，直接调用 Bot API
