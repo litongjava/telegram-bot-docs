@@ -9,7 +9,7 @@ telegram-bot-base 和 telegram-bot-utils 是笔者开发的 Telegram 机器人�
 
 ## 安装
 
-这两个库目前没有发布到 Maven Central，需要先从源码安装到本地 Maven 仓库。telegram-bot-base 依赖 telegram-bot-utils，所以先安装后者：
+这两个库目前没有发布到 Maven Central，需要先从源码安装到本地 Maven 仓库。构建需要 JDK 17。telegram-bot-base 依赖 telegram-bot-utils，所以先安装后者：
 
 ```bash
 git clone https://github.com/litongjava/telegram-bot-utils.git
