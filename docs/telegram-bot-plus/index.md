@@ -1,5 +1,9 @@
 # telegram-bot-plus
 
+::: warning 现阶段需要自行下载构建
+telegram-bot-plus 还没有发布到 Maven Central，现阶段需要自行下载源码并构建安装，否则 Maven 找不到依赖。步骤见[安装](#安装)。
+:::
+
 [telegram-bot-plus](https://github.com/litongjava/telegram-bot-plus) 是笔者开发的 Java Telegram 机器人开发套件，基于 [TelegramBots](../telegram-bots/) 封装常用操作，由原来的 telegram-bot-utils 和 telegram-bot-base 合并而成。**开发新机器人时推荐使用。**
 
 [max-translator-bot](https://github.com/litongjava/max-translator-bot) 是基于它开发的中英翻译机器人，可以作为完整的参考项目。
@@ -15,7 +19,7 @@
 
 ## 安装
 
-telegram-bot-plus 目前没有发布到 Maven Central，需要先从源码安装到本地 Maven 仓库：
+现阶段没有发布到 Maven Central，需要自行下载源码，用 Java 21 构建并安装到本地 Maven 仓库：
 
 ```bash
 git clone https://github.com/litongjava/telegram-bot-plus.git

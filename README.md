@@ -6,6 +6,8 @@
 - 相关项目：[telegram-bot-plus](https://github.com/litongjava/telegram-bot-plus)、[max-translator-bot](https://github.com/litongjava/max-translator-bot)
 - 拆分自 [tio-boot-docs](https://github.com/litongjava/tio-boot-docs)
 
+> telegram-bot-plus 现阶段没有发布到 Maven Central，需要自行下载构建，见[安装说明](https://telegram-bot.io.nexus/telegram-bot-plus/#安装)。
+
 ## 本地开发
 
 ```bash

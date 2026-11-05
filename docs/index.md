@@ -1,5 +1,9 @@
 # Telegram Bot
 
+::: warning 现阶段需要自行下载构建
+telegram-bot-plus 还没有发布到 Maven Central，现阶段需要自行下载源码并构建安装，否则 Maven 找不到依赖。步骤见[安装](./telegram-bot-plus/#安装)。
+:::
+
 使用 Java 和 tio-boot 开发 Telegram 机器人的文档。
 
 | 章节 | 内容 | 建议 |
